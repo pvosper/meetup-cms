@@ -1,7 +1,19 @@
 # meetup-cms
-CMS to manage meetups, targeting speaker tracking
 
-python 3.6
-python -m venv djangoenv
-source djangoenv/bin/activate
+Online CMS to manage meetups, targeting speaker tracking.
 
+##Example
+
+
+##Motivation
+A final class project for UW Python Certificate Program
+
+##API Documentation
+
+##Installation
+
+##Tests
+
+##Contributors
+
+##License
