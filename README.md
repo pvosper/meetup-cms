@@ -1,20 +1,20 @@
-#meetup-cms
+# meetup-cms
 
 Online CMS to display and manage monthly meetups, targeting speaker tracking.
 
-##Example
+## Example
 
 
-##Motivation
+## Motivation
 A final class project for UW Python Certificate Program
 
-##API Documentation
+## API Documentation
 
-##Installation
+## Installation
 
-##Tests
+## Tests
 
-##Contributors
+## Contributors
 Paul Vosper
 
-##License
+## License
