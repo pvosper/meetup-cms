@@ -1,6 +1,6 @@
-# meetup-cms
+#meetup-cms
 
-Online CMS to manage meetups, targeting speaker tracking.
+Online CMS to display and manage monthly meetups, targeting speaker tracking.
 
 ##Example
 
@@ -15,5 +15,6 @@ A final class project for UW Python Certificate Program
 ##Tests
 
 ##Contributors
+Paul Vosper
 
 ##License
